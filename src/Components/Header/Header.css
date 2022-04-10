@@ -1,17 +1,14 @@
-.menu{
+.menu {
     background-color: #1C2B35;
-    padding: 10px 70px;
+    padding: 15px 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.menu ul{
-    list-style: none;
-    display: flex;
-}
-.menu ul li a{
+
+.menu nav a {
     text-decoration: none;
     color: white;
-    font-size: 20px;
-    margin-left: 40px;
+    font-size: 18px;
+    margin-left: 20px;
 }
