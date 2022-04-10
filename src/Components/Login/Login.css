@@ -1,0 +1,79 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(253, 255, 219);
+    width: 600px;
+    border: 1px solid rgb(157, 159, 106);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+.form-container .form-title {
+    color: rgb(36, 36, 36);
+    text-align: center;
+    font-size: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.input-group input {
+    width: 300px;
+    padding: 7px 5px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid rgb(245, 136, 136);
+    margin-top: 5px;
+}
+
+.submit-btn {
+    width: 310px;
+    border: none;
+    outline: none;
+    padding: 8px 0;
+    background-color: rgb(56, 143, 218);
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.another-route-btn {
+    color: rgb(0, 89, 255);
+    text-decoration: none;
+}
+
+.gap-style {
+    color: rgb(142, 142, 142);
+}
+
+.google-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 310px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: rgb(65, 65, 65);
+    cursor: pointer;
+}
+
+.google-image {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
